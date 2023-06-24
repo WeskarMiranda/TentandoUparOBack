@@ -1,0 +1,50 @@
+[
+  {
+    "codigo": 1,
+    "produtos": [
+      {
+        "produto": 3,
+        "quantidade": 2
+      },
+      {
+        "produto": 5,
+        "quantidade": 3
+      }
+    ],
+    "cliente": 1, 
+    "status": "Faturado"
+  },
+  {
+    "codigo": 2,
+    "produtos": [
+      {
+        "produto": 4,
+        "quantidade": 1
+      },
+      {
+        "produto": 6,
+        "quantidade": 4
+      }
+    ],
+    "cliente": 2,
+    "status": "Aguardando Pagamento"
+  },
+  {
+    "codigo": 3,
+    "produtos": [
+      {
+        "produto": 1,
+        "quantidade": 3
+      },
+      {
+        "produto": 2,
+        "quantidade": 2
+      }
+    ],
+    "cliente": 3,
+    "status": "Enviado"
+  }
+  
+  
+  
+]

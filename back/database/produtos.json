@@ -1,0 +1,135 @@
+[
+  {
+    "codigo": 1,
+    "nome": "Ração para cães",
+    "imagem": {
+      "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/RacaoCaes.jpg"
+
+    },
+    "descrição": "Essencial para a nutrição diária dos cães, oferecendo os nutrientes necessários para uma dieta balanceada.",
+    "preco": 100.00,
+    "categoria": 1,
+    "animal": "Cachorro",
+    "comentarios": [
+      {
+        "texto": "Ótimo produto!",
+        "nota": 5
+      },
+      {
+        "texto": "Poderia ser melhor.",
+        "nota": 3
+      }
+    ]
+  },
+  {
+    "codigo": 2,
+    "nome": "Petiscos para gatos",
+    "imagem": {
+      "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/PetiscoGato.jpg"
+
+    },
+    "descrição": "Deliciosos snacks para agradar os gatos e recompensá-los durante o treinamento ou como um mimo ocasional.",
+    "preco": 90.00,
+    "categoria": 1,
+    "animal": "Gato",
+    "comentarios": [
+      {
+        "texto": "Ótimo produto!",
+        "nota": 6
+      },
+      {
+        "texto": "Poderia ser melhor.",
+        "nota": 4
+      }
+    ]
+  },
+  {
+    "codigo": 3,
+    "nome": "Suplemento vitamínico para aves",
+    "imagem": {
+      "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/VitaminaAves.jpg"
+
+    },
+    "descrição": "Um produto que fornece vitaminas e minerais essenciais para aves de estimação, ajudando a manter sua saúde e bem-estar.",
+    "preco": 110.00,
+    "categoria": 1,
+    "animal": "Ave",
+    "comentarios": [
+      {
+        "texto": "Ótimo produto!",
+        "nota": 8
+      },
+      {
+        "texto": "Poderia ser melhor.",
+        "nota": 5
+      }
+    ]
+  },
+  {
+    "codigo": 4,
+    "nome": "Shampoo para cães",
+    "imagem": {
+      "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/ShampooCao.jpg"
+
+    },
+    "descrição": " Um produto específico para a higiene canina, que limpa o pelo do animal e deixa-o com um cheiro agradável.",
+    "preco": 60.00,
+    "categoria": 2,
+    "animal": "Cachorro",
+    "comentarios": [
+      {
+        "texto": "Ótimo produto!",
+        "nota": 9
+      },
+      {
+        "texto": "Poderia ser melhor.",
+        "nota": 6
+      }
+    ]
+  },
+  {
+    "codigo": 5,
+    "nome": "Condicionador para gatos",
+    "imagem": {
+      "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/CondicionadorGatos.jpg"
+
+    },
+    "descrição": "Um produto que ajuda a desembaraçar e suavizar o pelo dos gatos, deixando-os com uma aparência bonita e saudável.",
+    "preco": 50.00,
+    "categoria": 2,
+    "animal": "Gato",
+    "comentarios": [
+      {
+        "texto": "Ótimo produto!",
+        "nota": 10
+      },
+      {
+        "texto": "Poderia ser melhor.",
+        "nota": 5
+      }
+    ]
+  },
+  {
+    "codigo": 6,
+    "nome": "Cama para roedores",
+    "imagem": {
+      "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/CamaRoedor.jpg"
+
+    },
+    "descrição": "Um item confortável para pequenos animais, como hamsters e cobaias, proporcionando um local aconchegante para descanso.",
+    "preco": 50.00,
+    "categoria": 2,
+    "animal": "Hamster",
+    "comentarios": [
+      {
+        "texto": "Ótimo produto!",
+        "nota": 7
+      },
+      {
+        "texto": "Poderia ser melhor.",
+        "nota": 4
+      }
+    ]
+  }
+]
+  

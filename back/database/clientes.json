@@ -1,0 +1,42 @@
+[
+  {
+    "codigo": 1,
+    "nome": "João Silva",
+    "cartaoNome": "João Silva",
+    "cartaoNumero": 1234567890123456,
+    "cartaoCvc": 123,
+    "telefone": 987654321,
+    "endereco": "Rua Principal, 123",
+    "cpf": "123.456.789-00",
+    "email": "joao@example.com",
+    "password": "senha123"
+  },
+  
+  {
+    "codigo": 2,
+    "nome": "Maria Oliveira",
+    "cartaoNome": "Maria Oliveira",
+    "cartaoNumero": 9876543210987654,
+    "cartaoCvc": 456,
+    "telefone": 123456789,
+    "endereco": "Avenida Secundária, 456",
+    "cpf": "987.654.321-00",
+    "email": "maria@example.com",
+    "password": "senha456"
+  },
+  {
+    "codigo": 3,
+    "nome": "Pedro Santos",
+    "cartaoNome": "Pedro Santos",
+    "cartaoNumero": 5555444433332222,
+    "cartaoCvc": 789,
+    "telefone": 987654321,
+    "endereco": "Rua Principal, 789",
+    "cpf": "555.444.333-22",
+    "email": "pedro@example.com",
+    "password": "senha789"
+  }
+  
+  
+]
+  

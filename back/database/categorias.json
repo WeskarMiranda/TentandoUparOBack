@@ -1,0 +1,13 @@
+[
+    {
+        "codigo": 1,
+        "nome": "Alimentação",
+        "descrição": "Categoria de alimentos para animais de estimação"
+    },
+    {
+        "codigo": 2,
+        "nome": "Higiene e Bem-Estar",
+        "descrição": "Categoria de produtos de limpeza e conforto para animais de estimação"
+    }
+]
+  
