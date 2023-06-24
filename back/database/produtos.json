@@ -6,7 +6,7 @@
       "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/RacaoCaes.jpg"
 
     },
-    "descrição": "Essencial para a nutrição diária dos cães, oferecendo os nutrientes necessários para uma dieta balanceada.",
+    "descricao": "Essencial para a nutrição diária dos cães, oferecendo os nutrientes necessários para uma dieta balanceada.",
     "preco": 100.00,
     "categoria": 1,
     "animal": "Cachorro",
@@ -28,7 +28,7 @@
       "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/PetiscoGato.jpg"
 
     },
-    "descrição": "Deliciosos snacks para agradar os gatos e recompensá-los durante o treinamento ou como um mimo ocasional.",
+    "descricao": "Deliciosos snacks para agradar os gatos e recompensá-los durante o treinamento ou como um mimo ocasional.",
     "preco": 90.00,
     "categoria": 1,
     "animal": "Gato",
@@ -50,7 +50,7 @@
       "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/VitaminaAves.jpg"
 
     },
-    "descrição": "Um produto que fornece vitaminas e minerais essenciais para aves de estimação, ajudando a manter sua saúde e bem-estar.",
+    "descricao": "Um produto que fornece vitaminas e minerais essenciais para aves de estimação, ajudando a manter sua saúde e bem-estar.",
     "preco": 110.00,
     "categoria": 1,
     "animal": "Ave",
@@ -72,7 +72,7 @@
       "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/ShampooCao.jpg"
 
     },
-    "descrição": " Um produto específico para a higiene canina, que limpa o pelo do animal e deixa-o com um cheiro agradável.",
+    "descricao": " Um produto específico para a higiene canina, que limpa o pelo do animal e deixa-o com um cheiro agradável.",
     "preco": 60.00,
     "categoria": 2,
     "animal": "Cachorro",
@@ -94,7 +94,7 @@
       "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/CondicionadorGatos.jpg"
 
     },
-    "descrição": "Um produto que ajuda a desembaraçar e suavizar o pelo dos gatos, deixando-os com uma aparência bonita e saudável.",
+    "descricao": "Um produto que ajuda a desembaraçar e suavizar o pelo dos gatos, deixando-os com uma aparência bonita e saudável.",
     "preco": 50.00,
     "categoria": 2,
     "animal": "Gato",
@@ -116,7 +116,7 @@
       "type": "E:/Downloads/Descarte/OTrabDaMinhaVida/back/public/images/CamaRoedor.jpg"
 
     },
-    "descrição": "Um item confortável para pequenos animais, como hamsters e cobaias, proporcionando um local aconchegante para descanso.",
+    "descricao": "Um item confortável para pequenos animais, como hamsters e cobaias, proporcionando um local aconchegante para descanso.",
     "preco": 50.00,
     "categoria": 2,
     "animal": "Hamster",
